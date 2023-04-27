@@ -5,12 +5,12 @@
 }
 
 :root{
-  --cor-base: #ff961d;
-  --cor-secundaria: #ffefa9;
+  --cor-base: #EAA353;
+  --cor-secundaria: #B9A173;
   --cor-texto: #222;
 
   --cor-fundo-home: rgba(241, 216, 122, 0.205);
-  --cor-neutra: #fff;
+  --cor-neutra: #f8f8f8;
 
 
 /*section*/
